@@ -1,5 +1,4 @@
-#Portfolio of web-based applications:
-# projects-live-view
+# Portfolio of web-based applications:
 
 **Map Applications**
 > https://zihanlim-singaporebus-map.netlify.app/
